@@ -1,5 +1,6 @@
 package algos;
 
+import java.util.ArrayList;
 import java.util.UUID;
 
 public class Commonfunctions {
@@ -14,5 +15,7 @@ public class Commonfunctions {
 	public static void main(String[] args)
     {
 		System.out.println(generateString());
+		
+		ArrayList<Integer> list = new ArrayList<Integer>();  
 }
 }
