@@ -24,6 +24,7 @@ public class OSVC_Sanity {
 			 
 			    driver.get("https://ngpsservice--tst4.custhelp.com/AgentWeb/");
 			    driver.findElement(By.xpath("//label[contains(text(),'Project Name')]/following::div[1]")).getAttribute("text"); 
+			    System.out.println("Success");
 	}
 	
 
