@@ -5,7 +5,7 @@
     <classes>
       <class name="com.sample.selenium.automation.Newtest"/>
       <class name="com.sample.selenium.automation.AppTest"/>
-       <class name="com.sample.selenium.automation.OSVC_Sanity"/>
+      
     </classes>
-  </test> <!-- Test -->
+  </test> <!-- Test - <class name="com.sample.selenium.automation.OSVC_Sanity"/>->
 </suite> <!-- Suite -->
